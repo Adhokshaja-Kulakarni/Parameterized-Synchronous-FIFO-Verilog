@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Oct 08 09:36:19 2026
+[*]
+[dumpfile] "C:\Users\adhok\OneDrive\Desktop\VLSI PROJECTS\01_Synchronous_FIFO\waveform\waveform\fifo_wave.vcd"
+[savefile] "C:\Users\adhok\OneDrive\Desktop\VLSI PROJECTS\01_Synchronous_FIFO\waveform\fifo_wave.gtkw"
+[timestart] 0
+[size] 1920 1008
+[pos] -171 -171
+*-15.523125 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] sync_fifo_tb.
+[sst_width] 205
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 295
+@28
+sync_fifo_tb.dut.clk
+sync_fifo_tb.dut.reset
+sync_fifo_tb.dut.wr_en
+sync_fifo_tb.dut.rd_en
+@24
+sync_fifo_tb.dut.data_in[7:0]
+sync_fifo_tb.dut.data_out[7:0]
+@22
+sync_fifo_tb.dut.count[3:0]
+@28
+sync_fifo_tb.dut.full
+sync_fifo_tb.dut.empty
+sync_fifo_tb.dut.wr_ptr[2:0]
+sync_fifo_tb.dut.rd_ptr[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
